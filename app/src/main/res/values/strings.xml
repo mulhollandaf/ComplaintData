@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComplaintData</string>
+    <string name="loading_complaints">Loading Complaints</string>
+    <string name="cd_complaints_list">Complaints List</string>
+</resources>
